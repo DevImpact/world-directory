@@ -6,7 +6,9 @@ The public catalogue of discoverable projects in the DevImpact ecosystem.
 
 ## Browse projects
 
-Open the directory website: **https://devimpact.github.io/world-directory/** is not a published route; use the GitHub Pages site for this repository when Pages is enabled, or browse the catalogue directly in [index.html](./index.html).
+**Directory URL:** https://devimpact.github.io/world-directory/
+
+The directory is hosted as a GitHub Pages project site from this repository's `main` branch and root folder. If the site is not yet available, check the repository's **Settings → Pages** and allow the Pages deployment to finish. You can also browse the catalogue directly in [index.html](./index.html).
 
 The structured catalogue is available in [projects.json](./projects.json).
 
