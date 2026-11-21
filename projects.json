@@ -1,0 +1,78 @@
+{
+  "organization": "DevImpact",
+  "updated": "2026-11-21",
+  "projects": [
+    {
+      "id": "job-connect",
+      "name": "Job Connect",
+      "category": "Mobile app",
+      "summary": "Job discovery app with job search, alerts and saved jobs, based on its public store listing.",
+      "repo": "https://github.com/shelternewlife/tobemotif-app-discovery",
+      "website": "https://shelternewlife.github.io/tobemotif-app-discovery/",
+      "play": "https://play.google.com/store/apps/details?id=com.jobsearch.jobconnect.work.jobs.devimpact"
+    },
+    {
+      "id": "tetrixa",
+      "name": "Tetrixa",
+      "category": "Mobile game",
+      "summary": "Block-puzzle arcade game featuring piece movement and rotation, row clearing and score progression.",
+      "repo": "https://github.com/shelternewlife/tetrixa",
+      "website": "https://shelternewlife.github.io/tetrixa/",
+      "play": "https://play.google.com/store/apps/details?id=com.game.tetrixa.devimpact"
+    },
+    {
+      "id": "celibataire",
+      "name": "Célibataire: Rencontres & Chat",
+      "category": "Mobile app",
+      "summary": "Dating and chat application; product details are maintained against its official store listing.",
+      "repo": "https://github.com/shelternewlife/Celibataire",
+      "website": "https://shelternewlife.github.io/Celibataire/",
+      "play": "https://play.google.com/store/apps/details?id=com.celibataire.single.devimpact"
+    },
+    {
+      "id": "fruit-fury",
+      "name": "Fruit Fury Slice",
+      "category": "Mobile game",
+      "summary": "Arcade fruit-slicing game with swipe controls, combo chains, level progression and score chasing.",
+      "repo": "https://github.com/shelternewlife/fruitfury",
+      "website": "https://shelternewlife.github.io/fruitfury/",
+      "play": "https://play.google.com/store/apps/details?id=com.game.fruitfury.devimpact"
+    },
+    {
+      "id": "bubble-fury",
+      "name": "Bubble Fury",
+      "category": "Mobile game",
+      "summary": "Arcade bubble shooter built around aiming, matching bubbles and combo chains.",
+      "repo": "https://github.com/shelternewlife/bubblefury",
+      "website": "https://shelternewlife.github.io/bubblefury/",
+      "play": "https://play.google.com/store/apps/details?id=com.game.bubblefury.devimpact"
+    },
+    {
+      "id": "nextube",
+      "name": "Nextube",
+      "category": "Mobile game",
+      "summary": "Neon-style liquid-sorting puzzle game with colour-matching tube gameplay.",
+      "repo": "https://github.com/shelternewlife/Nextube",
+      "website": "https://shelternewlife.github.io/Nextube/",
+      "play": "https://play.google.com/store/apps/details?id=com.game.Nextube.devimpact"
+    },
+    {
+      "id": "blogger-auto-publisher",
+      "name": "Blogger Auto Publisher",
+      "category": "Developer tool",
+      "summary": "A self-hosted MCP integration for managing Blogger blogs and publishing posts through the Blogger API.",
+      "repo": "https://github.com/shelternewlife/blogger-auto-publisher",
+      "website": null,
+      "play": null
+    },
+    {
+      "id": "bluesky-follow-assistant",
+      "name": "Bluesky Follow Assistant",
+      "category": "Browser extension",
+      "summary": "A Chrome extension that collects accounts from Bluesky follower pages and assists with following eligible accounts.",
+      "repo": "https://github.com/shelternewlife/Bluesky-Follow-Assistant",
+      "website": null,
+      "play": null
+    }
+  ]
+}
